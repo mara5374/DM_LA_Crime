@@ -14,6 +14,6 @@ to find the relationships between the type of crime committed and victim charact
 We found that sex and race play a large role in predicting whether or not a crime was violent, with Black and Latina women being especially at risk for violent offenses. These findings can be used for work in the areas of victim advocacy, crime matching, and law enforcement.
 
 
-Video:
+Video: https://github.com/mara5374/DM_LA_Crime/blob/master/15_CrimeinLA_Part5.swf
 
 Final Paper:
