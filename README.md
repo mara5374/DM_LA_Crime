@@ -16,4 +16,4 @@ We found that sex and race play a large role in predicting whether or not a crim
 
 Video: https://github.com/mara5374/DM_LA_Crime/blob/master/15_CrimeinLA_Part5.swf
 
-Final Paper:
+Final Paper: https://github.com/mara5374/DM_LA_Crime/blob/master/25_CrimeInLA_Part4.pdf
