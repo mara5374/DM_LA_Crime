@@ -1,5 +1,5 @@
-# DM_LA_Crime
 Group 25: Crime in LA
+
 Madison Razook & David Stone
 
 All code used for the final paper can be found in the src folder.
